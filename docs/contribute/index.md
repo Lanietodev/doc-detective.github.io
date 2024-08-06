@@ -26,4 +26,4 @@ Make sure to include as much information as possible, such as the version of Doc
 
 ## Other contributions
 
-If there's something you'd like to contribute that isn't covered here, drop by the Discord server and let us know. We're always open to new ideas and ways to improve the project.
+If there's something you'd like to contribute that isn't covered here, drop by the [Discord server](https://discord.gg/2M7wXEThfF) and let us know. We're always open to new ideas and ways to improve the project.
